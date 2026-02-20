@@ -1,3 +1,3 @@
 # Sorting-Algo
 Merge sort in C++
-Author - Sraio Saha
+Author - Sraio Saha(roll-09)
